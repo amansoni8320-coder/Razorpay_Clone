@@ -28,4 +28,4 @@ Please note that this is a clone website created for educational purposes and do
 Feel free to explore the website and get in touch with me if you have any questions or feedback.
 
 Thank you!
-Amanjot Singh
+Aman Soni
